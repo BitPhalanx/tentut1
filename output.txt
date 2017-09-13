@@ -1,0 +1,16 @@
+PS C:\Users\kimo\Documents\GitHub\tentut1> python tentut1.py
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+Extracting /tmp/tensorflow/mnist/input_data\train-images-idx3-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting /tmp/tensorflow/mnist/input_data\train-labels-idx1-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting /tmp/tensorflow/mnist/input_data\t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting /tmp/tensorflow/mnist/input_data\t10k-labels-idx1-ubyte.gz
+2017-09-12 23:03:14.522678: W C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_
+guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and
+ could speed up CPU computations.
+2017-09-12 23:03:14.524913: W C:\tf_jenkins\home\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_
+guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine an
+d could speed up CPU computations.
+0.9196
